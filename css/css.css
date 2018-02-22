@@ -1,0 +1,67 @@
+body{ text-align:center; font-family: calibri; background-color:#f2f2f2; }
+#logo
+{
+	margin-left:-18%;
+}
+#nome-logo
+{
+	color:#53290b;
+	font-family: calibri;
+	font-size:3em;
+	margin:-10% 25% 5% 35%;
+}
+#titulo
+{
+	color:#53290b;
+	font-family: calibri;
+}
+input[type=text]
+{
+	width: 10%;
+	height: 5%;
+	border-radius:3px;
+	background-color: white;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", serif;
+}
+input[type=submit]
+{
+  -webkit-border-radius: 2;
+  -moz-border-radius: 2;
+  border-radius: 2px;
+  color: #ffffff;
+  font-size: 15px;
+  background: #265473;
+  padding: 7px 14px 7px 14px;
+  text-decoration: none;
+  font-family: calibri;
+}
+#seta
+{
+	 margin: 0%;
+	 margin-bottom:-1%;
+	 height:20%;
+}
+label
+{
+	color:#999999;
+	font-weight:bold;
+}
+#voltar
+{
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 15px;
+  background: #d15f41;
+  padding: 7px 14px 7px 14px;
+  font-family: calibri;
+}
+#finalizar
+{
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 15px;
+  background: #3dc890;
+  padding: 7px 14px 7px 14px;
+  font-family: calibri;
+}
